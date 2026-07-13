@@ -1,0 +1,14 @@
+.DS_Store
+*.tmp
+dist/
+release-staging/
+guoxin-eye-repair/
+guoxin-eye-repair-all/
+guoxin-pet-run/
+gif-review/
+source-references/
+1783908830144-eyes-round.png
+iu-background.md
+previews/covers/
+previews/live-photo-pairs/
+previews/gif/10-look-around.gif
